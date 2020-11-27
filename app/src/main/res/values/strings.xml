@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Azula</string>
+    <string name="BtnEmpty">RR</string>
+    <string name="DefaultDisplayText">0</string>
+    <string name="NullException">Err!</string>
+    <string name="BtnClr">Clr</string>
+    <string name="BtnDel">Del</string>
+    <string name="BtnDot">.</string>
+    <string name="BtnPercent">%</string>
+    <string name="Btn1">1</string>
+    <string name="Btn2">2</string>
+    <string name="Btn3">3</string>
+    <string name="Btn4">4</string>
+    <string name="Btn5">5</string>
+    <string name="Btn6">6</string>
+    <string name="Btn7">7</string>
+    <string name="Btn8">8</string>
+    <string name="Btn9">9</string>
+    <string name="Btn0">0</string>
+    <string name="BtnEqual">=</string>
+    <string name="BtnMinus">-</string>
+    <string name="BtnPlus">+</string>
+    <string name="BtnMulti">*</string>
+    <string name="BtnDiv">/</string>
+</resources>
